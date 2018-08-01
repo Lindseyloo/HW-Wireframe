@@ -34,7 +34,7 @@ aside {
     background-color: #ebebeb;
     width:495px;
     padding:25px;
-    float:right;
+    /* float:right; */
     text-align: center;
     
 }
@@ -62,5 +62,8 @@ h3, p {
 }
 
 .box-1{
-    color:#FFFF00;
+    color:#777;
 }
+
+
+/*-- I need to replace my page breaks with <div= class> tags and I think that might give me a better result--*/
